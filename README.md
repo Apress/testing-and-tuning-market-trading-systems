@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Testing and Tuning Market Trading Systems*](https://www.apress.com/9781484241721) by Timothy Masters (Apress, %pubyear%).
+This repository accompanies [*Testing and Tuning Market Trading Systems*](https://www.apress.com/9781484241721) by Timothy Masters (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484241721.jpg)
